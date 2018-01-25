@@ -1,0 +1,7 @@
+C:\Users\Sia\Desktop\Sources\BeyondAdmin\mvc\BeyondThemes.Bootstrap\bin\Release\BeyondThemes.Bootstrap.xml
+C:\Users\Sia\Desktop\Sources\BeyondAdmin\mvc\BeyondThemes.Bootstrap\bin\Release\BeyondThemes.Bootstrap.dll
+C:\Users\Sia\Desktop\Sources\BeyondAdmin\mvc\BeyondThemes.Bootstrap\bin\Release\BeyondThemes.Bootstrap.pdb
+C:\Users\Sia\Desktop\Sources\BeyondAdmin\mvc\BeyondThemes.Bootstrap\bin\Release\T4MVCExtensions.dll
+C:\Users\Sia\Desktop\Sources\BeyondAdmin\mvc\BeyondThemes.Bootstrap\obj\Release\BeyondThemes.Bootstrap.dll
+C:\Users\Sia\Desktop\Sources\BeyondAdmin\mvc\BeyondThemes.Bootstrap\obj\Release\BeyondThemes.Bootstrap.pdb
+C:\Users\Sia\Desktop\Sources\BeyondAdmin\mvc\BeyondThemes.Bootstrap\obj\Release\BeyondThemes.Bootstrap.csprojResolveAssemblyReference.cache
